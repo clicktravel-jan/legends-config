@@ -261,7 +261,7 @@
         "cooldown": 40,
         "Projectile": {
           "velocity": 1,
-          "gravity": 0.4,
+          "gravity": 0.2,
           "radius": 0.2,
           "range": 30
         },
