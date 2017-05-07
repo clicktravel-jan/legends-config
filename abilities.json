@@ -161,9 +161,11 @@
   },
   "Mage": {
     "Fireball": {
+      "velocity": 0.75,
+      "gravity": 0,
+      "radius": 0.2,
       "damage": 3,
       "burn-duration": 1,
-      "velocity": 0.75,
       "range": 30,
       "cooldown": 7
     },
@@ -256,13 +258,23 @@
         "cooldown": 20
       },
       "Supernova": {
-        "damage": 10,
-        "radius": 7,
-        "duration": 10,
-        "whither-level": 2,
-        "whither-duration": 10,
-        "range": 30,
-        "cooldown": 40
+        "cooldown": 40,
+        "Projectile": {
+          "velocity": 1,
+          "gravity": 0.4,
+          "radius": 0.2,
+          "range": 30
+        },
+        "Vacuum": {
+          "radius": 7,
+          "duration": 3,
+          "whither-level": 2,
+          "whither-duration": 10
+        },
+        "Implosion": {
+          "damage": 5,
+          "radius": 7
+        }
       }
     }
   }
