@@ -167,7 +167,7 @@
       "damage": 3,
       "burn-duration": 1,
       "range": 30,
-      "cooldown": 7
+      "cooldown": 1.5
     },
     "Tempest": {
       "Bolt": {
