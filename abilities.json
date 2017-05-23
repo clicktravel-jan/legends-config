@@ -36,9 +36,10 @@
         "cooldown": 25
       },
       "StandYourGround": {
-        "resistance-level": 2,
-        "slowness-level": 2,
         "duration": 5,
+        "physical-resistance-level": 2,
+        "fire-resistance-level": 2,
+        "slow-level": 2,
         "cooldown": 35
       }
     },
