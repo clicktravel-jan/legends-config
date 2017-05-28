@@ -15,9 +15,9 @@
       "Shatter": {
         "distance": 15,
         "damage": 10,
+        "launch": 4,
         "nausea-level": 1,
         "nausea-duration": 5,
-        "launch": 4,
         "cooldown": 35
       }
     },
@@ -37,7 +37,7 @@
       },
       "StandYourGround": {
         "duration": 5,
-        "physical-resistance-level": 2,
+        "resistance-level": 2,
         "fire-resistance-level": 2,
         "slow-level": 2,
         "cooldown": 35
