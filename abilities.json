@@ -99,12 +99,14 @@
       "ExplosiveShot": {
         "damage": 10,
         "knockback": 10,
+        "radius": 2,
         "cooldown": 25
       }
     },
     "Hunter": {
       "Trap": {
-        "trap-duration": 10,
+        "radius": 1,
+        "duration": 10,
         "root-duration": 3,
         "poison-level": 1,
         "poison-duration": 5,
