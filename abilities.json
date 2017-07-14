@@ -12,7 +12,7 @@
         "heal": 4,
         "cooldown": 20
       },
-      "Shatter": {
+      "Leap": {
         "distance": 15,
         "damage": 10,
         "radius": 2,
