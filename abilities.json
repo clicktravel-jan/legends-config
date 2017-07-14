@@ -15,6 +15,7 @@
       "Shatter": {
         "distance": 15,
         "damage": 10,
+        "radius": 2,
         "launch": 4,
         "nausea-level": 1,
         "nausea-duration": 5,
