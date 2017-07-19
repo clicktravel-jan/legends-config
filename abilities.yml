@@ -9,7 +9,7 @@ warrior:
       heal: 4
       duration: 7
       cooldown: 20
-    Leap:
+    Shatter:
       distance: 15
       launch: 4
       radius: 2
@@ -21,8 +21,8 @@ warrior:
   armsmaster:
     Hamstring:
       damage: 5
-      slowness-level: 1
-      slowness-duration: 3
+      slow-level: 1
+      slow-duration: 3
       cooldown: 10
     Slam:
       damage: 5
@@ -33,7 +33,7 @@ warrior:
     StandYourGround:
       resistance-level: 2
       fire-resistance-level: 2
-      slowness-level: 2
+      slow-level: 2
       duration: 5
       cooldown: 35
 
@@ -65,7 +65,7 @@ warrior:
     Boulder:
       damage: 10
       cooldown: 20
-    PersonalGuard:
+    Rally:
       health: 20
       speed-level: 1
       strength-level: 1
@@ -99,7 +99,7 @@ ranger:
     Disengage:
       distance: 15
       cooldown: 15
-    Camouflage:
+    Sneak:
       speed-level: 2
       duration: 7
       cooldown: 35
@@ -115,8 +115,8 @@ ranger:
       cooldown: 15
     HailOfArrows:
       damage: 7
-      slowness-level: 2
-      slowness-duration: 5
+      slow-level: 2
+      slow-duration: 5
       cooldown: 40
 
   valewalker:
@@ -125,7 +125,7 @@ ranger:
       poison-level: 1
       poison-duration: 3
       cooldown: 10
-    Mud:
+    Camouflage:
       regeneration-level: 1
       duration: 10
       cooldown: 20
@@ -156,11 +156,12 @@ mage:
     HailBlast:
       damage: 6
       cone: 5
-      slowness-level: 3
-      slowness-duration: 5
+      slow-level: 3
+      slow-duration: 5
       cooldown: 20
     MoltenStorm:
       damage: 3
+      radius: 5
       burn-level: 1
       burn-duration: 3
       duration: 10
@@ -176,8 +177,8 @@ mage:
     Teleport:
       damage: 5
       radius: 3
-      slowness-level: 1
-      slowness-duration: 1
+      slow-level: 1
+      slow-duration: 1
       range: 15
       cooldown: 20
     MassPiggify:
