@@ -160,7 +160,7 @@ mage:
       slow-duration: 5
       cooldown: 20
     MoltenStorm:
-      spawnRadius: 5.0
+      spawnRadius: 7.5
       damage: 3
       radius: 5
       burn-level: 1
