@@ -5,8 +5,8 @@ trebuchet:
       east: -33
       south: -6010
       west: -37
-      up: 5
-      down: 4
+      upper: 5
+      lower: 4
     materials:
       wood: 200
       stone: 20
@@ -16,5 +16,5 @@ trebuchet:
       east: 0
       south: 0
       west: 0
-      up: 0
-      down: 0
+      upper: 0
+      lower: 0
