@@ -1,9 +1,9 @@
 trebuchet:
   plot:
     boundaries:
-      north: -6027
+      north: -6025
       east: -33
-      south: -6010
+      south: -6012
       west: -37
       upper: 5
       lower: 4
