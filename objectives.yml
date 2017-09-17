@@ -1,15 +1,39 @@
-human_fort_east:
+human_keep_east:
   name: "Human Fort East"
   location:
     x: -1021
     y: 45
     z: 54
-human_fort_west:
+human_keep_west:
   name: "Human Fort West"
   location:
     x: -1541
     y: 33
     z: -277
+human_farm:
+  name: "Human Farm"
+  location:
+    x: 0
+    y: 0
+    z: 0
+human_lumber_mill:
+  name: "Human Lumber Mill"
+  location:
+    x: 0
+    y: 0
+    z: 0
+human_mine:
+  name: "Human Mine"
+  location:
+    x: 0
+    y: 0
+    z: 0
+human_outpost_dwarf:
+  name: "Human Outpost Dwarf"
+  location:
+    x: 0
+    y: 0
+    z: 0
 human_outpost_orc:
   name: "Human Outpost Orc"
   location:
@@ -17,21 +41,131 @@ human_outpost_orc:
     y: 31
     z: -152
 
-orc_fort_east:
+orc_keep_east:
   name: "Orc Fort East"
   location:
     x: 448
     y: 40
     z: -310
-orc_fort_west:
+orc_keep_west:
   name: "Orc Fort West"
   location:
     x: -311
     y: 33
     z: 391
+orc_farm:
+  name: "Orc Farm"
+  location:
+    x: 0
+    y: 0
+    z: 0
+orc_lumber_mill:
+  name: "Orc Lumber Mill"
+  location:
+    x: 0
+    y: 0
+    z: 0
+orc_mine:
+  name: "Orc Mine"
+  location:
+    x: 0
+    y: 0
+    z: 0
 orc_outpost_human:
   name: "Orc Outpost Human"
   location:
     x: -407
     y: 31
     z: -135
+orc_outpost_elf:
+  name: "Orc Outpost Elf"
+  location:
+    x: 0
+    y: 0
+    z: 0
+
+elf_keep_east:
+  name: "Elf Fort East"
+  location:
+    x: 0
+    y: 0
+    z: 0
+elf_keep_west:
+  name: "Elf Fort West"
+  location:
+    x: 0
+    y: 0
+    z: 0
+elf_farm:
+  name: "Elf Farm"
+  location:
+    x: 0
+    y: 0
+    z: 0
+elf_lumber_mill:
+  name: "Elf Lumber Mill"
+  location:
+    x: 0
+    y: 0
+    z: 0
+elf_mine:
+  name: "Elf Mine"
+  location:
+    x: 0
+    y: 0
+    z: 0
+elf_outpost_dwarf:
+  name: "Elf Outpost Dwarf"
+  location:
+    x: 0
+    y: 0
+    z: 0
+elf_outpost_orc:
+  name: "Elf Outpost Orc"
+  location:
+    x: 0
+    y: 0
+    z: 0
+
+dwarf_keep_east:
+  name: "Dwarf Fort East"
+  location:
+    x: 0
+    y: 0
+    z: 0
+dwarf_keep_west:
+  name: "Dwarf Fort West"
+  location:
+    x: 0
+    y: 0
+    z: 0
+dwarf_farm:
+  name: "Dwarf Farm"
+  location:
+    x: 0
+    y: 0
+    z: 0
+dwarf_lumber_mill:
+  name: "Dwarf Lumber Mill"
+  location:
+    x: 0
+    y: 0
+    z: 0
+dwarf_mine:
+  name: "Dwarf Mine"
+  location:
+    x: 0
+    y: 0
+    z: 0
+dwarf_outpost_human:
+  name: "Dwarf Outpost Human"
+  location:
+    x: 0
+    y: 0
+    z: 0
+dwarf_outpost_elf:
+  name: "Dwarf Outpost Elf"
+  location:
+    x: 0
+    y: 0
+    z: 0
