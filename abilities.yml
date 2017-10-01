@@ -150,6 +150,7 @@ mage:
 
   tempest:
     Bolt:
+      radius: 2
       damage: 6
       range: 30
       cooldown: 10
