@@ -142,7 +142,7 @@ mage:
   Fireball:
     velocity: 0.75
     gravity: 0
-    radius: 0.2
+    radius: 2
     damage: 3
     burn-duration: 1
     range: 30
