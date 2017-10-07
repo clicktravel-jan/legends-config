@@ -11,9 +11,9 @@ warrior:
       cooldown: 15
     Shatter:
       distance: 15
-      launch: 4
+      launch: 8
       radius: 4
-      damage: 8
+      damage: 5
       nausea-level: 2
       nausea-duration: 5
       cooldown: 15
