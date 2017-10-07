@@ -16,7 +16,7 @@ warrior:
       damage: 5
       nausea-level: 2
       nausea-duration: 5
-      cooldown: 15
+      cooldown: 20
 
   armsmaster:
     Hamstring:
@@ -190,7 +190,7 @@ mage:
       slow-level: 1
       slow-duration: 1
       range: 15
-      cooldown: 15
+      cooldown: 20
     MassPiggify:
       countdown: 2.0
       radius: 5
