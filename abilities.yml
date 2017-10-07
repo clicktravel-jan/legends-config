@@ -152,7 +152,7 @@ mage:
     gravity: 0
     radius: 2
     damage: 3
-    burn-duration: 1
+    burn-duration: 3
     range: 30
     cooldown: 1.5
 
