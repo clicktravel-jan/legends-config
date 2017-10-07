@@ -6,15 +6,15 @@ warrior:
       absorption-duration: 2
       cooldown: 5
     Grudge:
-      heal: 4
-      duration: 7
+      heal: 1
+      duration: 5
       cooldown: 15
     Shatter:
       distance: 15
       launch: 4
-      radius: 2
-      damage: 10
-      nausea-level: 1
+      radius: 4
+      damage: 8
+      nausea-level: 2
       nausea-duration: 5
       cooldown: 15
 
@@ -35,7 +35,7 @@ warrior:
       resistance-duration: 5
       fire-resistance-level: 2
       fire-resistance-duration: 5
-      slow-level: 2
+      slow-level: 1
       slow-duration: 5
       cooldown: 20
 
