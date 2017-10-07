@@ -16,7 +16,7 @@ warrior:
       damage: 10
       nausea-level: 1
       nausea-duration: 5
-      cooldown: 35
+      cooldown: 15
 
   armsmaster:
     Hamstring:
