@@ -192,7 +192,7 @@ mage:
       range: 15
       cooldown: 15
     MassPiggify:
-      countdown: 1.5
+      countdown: 2.0
       radius: 5
       duration: 8
       nausea-level: 1
