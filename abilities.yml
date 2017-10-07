@@ -4,11 +4,11 @@ warrior:
       damage: 5
       absorption-level: 1
       absorption-duration: 2
-      cooldown: 8
+      cooldown: 5
     Grudge:
       heal: 4
       duration: 7
-      cooldown: 20
+      cooldown: 15
     Shatter:
       distance: 15
       launch: 4
@@ -23,13 +23,13 @@ warrior:
       damage: 5
       slow-level: 1
       slow-duration: 3
-      cooldown: 10
+      cooldown: 5
     Slam:
       damage: 5
       knockback: 10
       nausea-level: 1
       nausea-duration: 7
-      cooldown: 25
+      cooldown: 10
     StandYourGround:
       resistance-level: 2
       resistance-duration: 5
@@ -37,14 +37,14 @@ warrior:
       fire-resistance-duration: 5
       slow-level: 2
       slow-duration: 5
-      cooldown: 35
+      cooldown: 20
 
   harbinger:
     LifeLeech:
       heal: 5
       wither-level: 2
       wither-duration: 5
-      cooldown: 10
+      cooldown: 5
     GraspOfTheDead:
       damage: 10
       blindness-level: 2
@@ -167,7 +167,7 @@ mage:
       cone: 5
       slow-level: 3
       slow-duration: 5
-      cooldown: 20
+      cooldown: 15
     MoltenStorm:
       spawnRadius: 7.5
       damage: 3
@@ -176,21 +176,21 @@ mage:
       burn-duration: 3
       duration: 10
       range: 30
-      cooldown: 40
+      cooldown: 25
 
   wizard:
     ArcaneMissile:
       damage: 7
       radius: 2
       range: 30
-      cooldown: 10
+      cooldown: 6
     Teleport:
       damage: 5
       radius: 3
       slow-level: 1
       slow-duration: 1
       range: 15
-      cooldown: 20
+      cooldown: 15
     MassPiggify:
       countdown: 3.0
       radius: 5
@@ -198,7 +198,7 @@ mage:
       nausea-level: 1
       nausea-duration: 8
       range: 30
-      cooldown: 40
+      cooldown: 25
 
   oracle:
     Starsurge:
