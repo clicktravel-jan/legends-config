@@ -32,9 +32,11 @@ warrior:
       cooldown: 25
     StandYourGround:
       resistance-level: 2
+      resistance-duration: 5
       fire-resistance-level: 2
+      fire-resistance-duration: 5
       slow-level: 2
-      duration: 5
+      slow-duration: 5
       cooldown: 35
 
   harbinger:
@@ -68,8 +70,9 @@ warrior:
     Rally:
       health: 20
       speed-level: 1
+      speed-duration: 10
       strength-level: 1
-      duration: 10
+      strength-duration: 10
       cooldown: 35
 
 
@@ -101,6 +104,7 @@ ranger:
       cooldown: 15
     Sneak:
       speed-level: 2
+      speed-duration: 7
       duration: 7
       cooldown: 35
 
@@ -127,14 +131,18 @@ ranger:
       cooldown: 10
     Camouflage:
       regeneration-level: 1
+      regeneration-level: 10
       duration: 10
       cooldown: 20
     BeastWithin:
       jump-level: 3
+      jump-duration: 10
       speed-level: 2
+      speed-duration: 10
       regeneration-level: 1
+      regeneration-duration: 10
       strength-level: 1
-      duration: 10
+      strength-duration: 10
       cooldown: 40
 
 
