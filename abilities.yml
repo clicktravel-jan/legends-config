@@ -176,7 +176,7 @@ mage:
       burn-duration: 3
       duration: 10
       range: 30
-      cooldown: 25
+      cooldown: 30
 
   wizard:
     ArcaneMissile:
@@ -198,7 +198,7 @@ mage:
       nausea-level: 1
       nausea-duration: 8
       range: 30
-      cooldown: 25
+      cooldown: 30
 
   oracle:
     Starsurge:
