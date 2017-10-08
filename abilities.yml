@@ -82,16 +82,21 @@ ranger:
       damage: 5
       knockback: 10
       cooldown: 8
-    Grapple:
-      range: 30
-      cooldown: 20
-    ExplosiveShot:
-      damage: 10
-      knockback: 10
-      radius: 2
-      cooldown: 25
+    Focus:
+      damage-increase: 25
+      cooldown: 3
+    Sneak:
+      speed-level: 2
+      speed-duration: 7
+      duration: 7
+      cooldown: 30
 
   hunter:
+    ToxicArrow:
+      damage: 5
+      poison-level: 2
+      poison-duration: 3
+      cooldown: 8
     Trap:
       radius: 1
       poison-level: 1
@@ -102,11 +107,6 @@ ranger:
     Disengage:
       distance: 15
       cooldown: 15
-    Sneak:
-      speed-level: 2
-      speed-duration: 7
-      duration: 7
-      cooldown: 35
 
   riftstalker:
     NerveShot:
