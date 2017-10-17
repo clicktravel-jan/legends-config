@@ -1,0 +1,99 @@
+human_farm:
+  boundaries:
+    north: 0
+    east: 0
+    south: 0
+    west: 0
+    upper: 0
+    lower: 0
+human_lumber_mill:
+  boundaries:
+    north: 0
+    east: 0
+    south: 0
+    west: 0
+    upper: 0
+    lower: 0
+human_mine:
+  boundaries:
+    north: 0
+    east: 0
+    south: 0
+    west: 0
+    upper: 0
+    lower: 0
+
+orc_farm:
+  boundaries:
+    north: 0
+    east: 0
+    south: 0
+    west: 0
+    upper: 0
+    lower: 0
+orc_lumber_mill:
+  boundaries:
+    north: 0
+    east: 0
+    south: 0
+    west: 0
+    upper: 0
+    lower: 0
+orc_mine:
+  boundaries:
+    north: 0
+    east: 0
+    south: 0
+    west: 0
+    upper: 0
+    lower: 0
+
+elf_farm:
+  boundaries:
+    north: 0
+    east: 0
+    south: 0
+    west: 0
+    upper: 0
+    lower: 0
+elf_lumber_mill:
+  boundaries:
+    north: 0
+    east: 0
+    south: 0
+    west: 0
+    upper: 0
+    lower: 0
+elf_mine:
+  boundaries:
+    north: 0
+    east: 0
+    south: 0
+    west: 0
+    upper: 0
+    lower: 0
+
+dwarf_farm:
+  boundaries:
+    north: 0
+    east: 0
+    south: 0
+    west: 0
+    upper: 0
+    lower: 0
+dwarf_lumber_mill:
+  boundaries:
+    north: 0
+    east: 0
+    south: 0
+    west: 0
+    upper: 0
+    lower: 0
+dwarf_mine:
+  boundaries:
+    north: 0
+    east: 0
+    south: 0
+    west: 0
+    upper: 0
+    lower: 0
