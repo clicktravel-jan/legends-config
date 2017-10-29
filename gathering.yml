@@ -1,99 +1,113 @@
 human_farm:
-  boundaries:
-    north: 0
-    east: 0
-    south: 0
-    west: 0
-    upper: 0
-    lower: 0
+  - boundaries:
+      north: 0
+      east: 0
+      south: 0
+      west: 0
+      upper: 0
+      lower: 0
+    materials:
 human_lumber_mill:
-  boundaries:
-    north: 0
-    east: 0
-    south: 0
-    west: 0
-    upper: 0
-    lower: 0
+  - boundaries:
+      north: 397
+      east: -756
+      south: 417
+      west: -780
+      upper: 34
+      lower: 33
+    materials:
+      - "LOG"
+      - "LOG_2"
 human_mine:
-  boundaries:
-    north: 0
-    east: 0
-    south: 0
-    west: 0
-    upper: 0
-    lower: 0
+  - boundaries:
+      north: 0
+      east: 0
+      south: 0
+      west: 0
+      upper: 0
+      lower: 0
+    materials:
 
 orc_farm:
-  boundaries:
-    north: 0
-    east: 0
-    south: 0
-    west: 0
-    upper: 0
-    lower: 0
+  - boundaries:
+      north: 0
+      east: 0
+      south: 0
+      west: 0
+      upper: 0
+      lower: 0
+    materials:
 orc_lumber_mill:
-  boundaries:
-    north: 0
-    east: 0
-    south: 0
-    west: 0
-    upper: 0
-    lower: 0
+  - boundaries:
+      north: 0
+      east: 0
+      south: 0
+      west: 0
+      upper: 0
+      lower: 0
+    materials:
 orc_mine:
-  boundaries:
-    north: 0
-    east: 0
-    south: 0
-    west: 0
-    upper: 0
-    lower: 0
+  - boundaries:
+      north: 0
+      east: 0
+      south: 0
+      west: 0
+      upper: 0
+      lower: 0
+    materials:
 
 elf_farm:
-  boundaries:
-    north: 0
-    east: 0
-    south: 0
-    west: 0
-    upper: 0
-    lower: 0
+  - boundaries:
+      north: 0
+      east: 0
+      south: 0
+      west: 0
+      upper: 0
+      lower: 0
+    materials:
 elf_lumber_mill:
-  boundaries:
-    north: 0
-    east: 0
-    south: 0
-    west: 0
-    upper: 0
-    lower: 0
+  - boundaries:
+      north: 0
+      east: 0
+      south: 0
+      west: 0
+      upper: 0
+      lower: 0
+    materials:
 elf_mine:
-  boundaries:
-    north: 0
-    east: 0
-    south: 0
-    west: 0
-    upper: 0
-    lower: 0
+  - boundaries:
+      north: 0
+      east: 0
+      south: 0
+      west: 0
+      upper: 0
+      lower: 0
+    materials:
 
 dwarf_farm:
-  boundaries:
-    north: 0
-    east: 0
-    south: 0
-    west: 0
-    upper: 0
-    lower: 0
+  - boundaries:
+      north: 0
+      east: 0
+      south: 0
+      west: 0
+      upper: 0
+      lower: 0
+    materials:
 dwarf_lumber_mill:
-  boundaries:
-    north: 0
-    east: 0
-    south: 0
-    west: 0
-    upper: 0
-    lower: 0
+  - boundaries:
+      north: 0
+      east: 0
+      south: 0
+      west: 0
+      upper: 0
+      lower: 0
+    materials:
 dwarf_mine:
-  boundaries:
-    north: 0
-    east: 0
-    south: 0
-    west: 0
-    upper: 0
-    lower: 0
+  - boundaries:
+      north: 0
+      east: 0
+      south: 0
+      west: 0
+      upper: 0
+      lower: 0
+    materials:
