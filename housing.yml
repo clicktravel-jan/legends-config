@@ -1,0 +1,12 @@
+housingAreas:
+  - humanCapital:
+      minX: -1570
+      minY: 50
+      minZ: 141
+      maxX: -1262
+      maxY: 155
+      maxZ: 436
+      houseModels:
+        - humanFarmHouse1
+        - humanFarmHouse2
+        - humanFarmHouse3
