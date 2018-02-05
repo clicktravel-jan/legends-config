@@ -1,12 +1,70 @@
-housingAreas:
-  - humanCapital:
+areas:
+  - name: "Human Capital"
+    boundaries:
       minX: -1570
       minY: 50
       minZ: 141
       maxX: -1262
       maxY: 155
       maxZ: 436
-      houseModels:
-        - humanFarmHouse1
-        - humanFarmHouse2
-        - humanFarmHouse3
+    models: 
+      - name: "human.c.1"
+        rent: 950
+      - name: "human.c.2"
+        rent: 2050
+      - name: "human.c.3"
+        rent: 1600
+      - name: "human.c.4"
+        rent: 2100
+      - name: "human.c.5"
+        rent: 2350
+      - name: "human.c.6"
+        rent: 150
+      - name: "human.c.7"
+        rent: 300
+      - name: "human.c.8"
+        rent: 450
+      - name: "human.c.9"
+        rent: 600
+      - name: "human.c.10"
+        rent: 500
+      - name: "human.c.11"
+        rent: 800
+      - name: "human.j.1a"
+        rent: 3500
+      - name: "human.j.1b"
+        rent: 2700
+      - name: "human.j.2"
+        rent: 2250
+      - name: "human.j.3"
+        rent: 3900
+      - name: "human.j.4"
+        rent: 3600
+      - name: "human.j.5"
+        rent: 1700
+
+  - name: "Orc Capital"
+    boundaries:
+      minX: 186
+      minY: 42
+      minZ: 112
+      maxX: 550
+      maxY: 118
+      maxZ: 541
+    models: 
+      - name: "orc.c.1"
+        rent: 50
+      - name: "orc.c.2"
+        rent: 550
+      - name: "orc.c.3"
+        rent: 1050
+      - name: "orc.c.4"
+        rent: 1650
+      - name: "orc.c.5"
+        rent: 1700
+      - name: "orc.c.6"
+        rent: 2400
+      - name: "orc.c.7"
+        rent: 3450
+      - name: "orc.c.8"
+        rent: 4250
