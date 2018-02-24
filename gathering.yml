@@ -7,6 +7,7 @@ human_farm:
       upper: 0
       lower: 0
     materials:
+      - "CROPS"
 human_lumber_mill:
   - boundaries:
       north: 397
@@ -27,6 +28,7 @@ human_mine:
       upper: 0
       lower: 0
     materials:
+      - "STONE"
 
 orc_farm:
   - boundaries:
@@ -46,6 +48,8 @@ orc_lumber_mill:
       upper: 0
       lower: 0
     materials:
+      - "LOG"
+      - "LOG_2"
 orc_mine:
   - boundaries:
       north: 0
@@ -55,59 +59,4 @@ orc_mine:
       upper: 0
       lower: 0
     materials:
-
-elf_farm:
-  - boundaries:
-      north: 0
-      east: 0
-      south: 0
-      west: 0
-      upper: 0
-      lower: 0
-    materials:
-elf_lumber_mill:
-  - boundaries:
-      north: 0
-      east: 0
-      south: 0
-      west: 0
-      upper: 0
-      lower: 0
-    materials:
-elf_mine:
-  - boundaries:
-      north: 0
-      east: 0
-      south: 0
-      west: 0
-      upper: 0
-      lower: 0
-    materials:
-
-dwarf_farm:
-  - boundaries:
-      north: 0
-      east: 0
-      south: 0
-      west: 0
-      upper: 0
-      lower: 0
-    materials:
-dwarf_lumber_mill:
-  - boundaries:
-      north: 0
-      east: 0
-      south: 0
-      west: 0
-      upper: 0
-      lower: 0
-    materials:
-dwarf_mine:
-  - boundaries:
-      north: 0
-      east: 0
-      south: 0
-      west: 0
-      upper: 0
-      lower: 0
-    materials:
+      - "STONE"
