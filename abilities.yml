@@ -252,3 +252,12 @@ mage:
     SupernovaImplosion:
       damage: 5
       radius: 7
+
+  orc:
+    TotemFireball:
+      velocity: 0.75
+      gravity: 0
+      radius: 1.5
+      damage: 2
+      burn-duration: 1
+      range: 30
