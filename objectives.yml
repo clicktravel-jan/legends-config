@@ -4,22 +4,22 @@ human_keep_east:
   name: "Human Fort East"
   outerPortal:
     entryLocation:
-      x: -1048
+      x: -1047.5
       y: 45
-      z: 52
+      z: 52.5
     exitLocation:
-      x: -1036
+      x: -1035.5
       y: 45
-      z: 52
+      z: 52.5
   innerPortal:
     entryLocation:
-      x: -1036
+      x: -1035.5
       y: 45
-      z: 56
+      z: 56.5
     exitLocation:
-      x: -1048
+      x: -1047.5
       y: 45
-      z: 56
+      z: 56.5
   captureLocation:
     x: -1020
     y: 45
@@ -30,22 +30,22 @@ human_keep_west:
   name: "Human Fort West"
   outerPortal:
     entryLocation:
-      x: -1533
+      x: -1532.5
       y: 33
-      z: -250
+      z: -249.5
     exitLocation:
-      x: -1533
+      x: -1532.5
       y: 33
-      z: -260
+      z: -259.5
   innerPortal:
     entryLocation:
-      x: -1530
+      x: -1529.5
       y: 33
-      z: -258
+      z: -257.5
     exitLocation:
-      x: -1529
+      x: -1528.5
       y: 33
-      z: -250
+      z: -249.5
   captureLocation:
     x: -1541
     y: 33
@@ -106,22 +106,22 @@ human_outpost_orc:
   name: "Human Outpost Orc"
   outerPortal:
     entryLocation:
-      x: -661
+      x: -660.5
       y: 31
-      z: -137
+      z: -136.5
     exitLocation:
-      x: -661
+      x: -660.5
       y: 31
-      z: -147
+      z: -146.5
   innerPortal:
     entryLocation:
-      x: -653
+      x: -652.5
       y: 31
-      z: -147
+      z: -146.5
     exitLocation:
-      x: -653
+      x: -652.5
       y: 31
-      z: -137
+      z: -136.5
   captureLocation:
     x: -656
     y: 31
@@ -160,22 +160,22 @@ orc_keep_west:
   name: "Orc Fort West"
   outerPortal:
     entryLocation:
-      x: -288
+      x: -287.5
       y: 33
-      z: 392
+      z: 392.5
     exitLocation:
-      x: -299
+      x: -298.5
       y: 33
-      z: 392
+      z: 392.5
   innerPortal:
     entryLocation:
-      x: -299
+      x: -298.5
       y: 33
-      z: 388
+      z: 388.5
     exitLocation:
-      x: -288
+      x: -287.5
       y: 33
-      z: 388
+      z: 388.5
   captureLocation:
     x: -311
     y: 33
@@ -210,22 +210,22 @@ orc_outpost_human:
   name: "Orc Outpost Human"
   outerPortal:
     entryLocation:
-      x: -411
+      x: -410.5
       y: 31
-      z: -123
+      z: -122.5
     exitLocation:
-      x: -411
+      x: -410.5
       y: 31
-      z: -129
+      z: -128.5
   innerPortal:
     entryLocation:
-      x: -405
+      x: -404.5
       y: 31
-      z: -129
+      z: -128.5
     exitLocation:
-      x: -405
+      x: -404.5
       y: 31
-      z: -123
+      z: -122.5
   captureLocation:
     x: -407.5
     y: 31
