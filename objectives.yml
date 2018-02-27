@@ -1,171 +1,361 @@
+# Human objectives
 human_keep_east:
+  type: "KEEP"
   name: "Human Fort East"
-  location:
-    x: -1021
+  outerPortal:
+    entryLocation:
+      x: -1048
+      y: 45
+      z: 52
+    exitLocation:
+      x: -1036
+      y: 45
+      z: 52
+  innerPortal:
+    entryLocation:
+      x: -1036
+      y: 45
+      z: 56
+    exitLocation:
+      x: -1048
+      y: 45
+      z: 56
+  captureLocation:
+    x: -1020
     y: 45
-    z: 54
+    z: 54.5
+  captureRadius: 6
 human_keep_west:
+  type: "KEEP"
   name: "Human Fort West"
-  location:
+  outerPortal:
+    entryLocation:
+      x: -1533
+      y: 33
+      z: -250
+    exitLocation:
+      x: -1533
+      y: 33
+      z: -260
+  innerPortal:
+    entryLocation:
+      x: -1530
+      y: 33
+      z: -258
+    exitLocation:
+      x: -1529
+      y: 33
+      z: -250
+  captureLocation:
     x: -1541
     y: 33
     z: -277
+  captureRadius: 6
 human_farm:
+  type: "RESOURCE"
   name: "Human Farm"
-  location:
+  captureLocation:
     x: 0
     y: 0
     z: 0
+  captureRadius: 6
 human_lumber_mill:
+  type: "RESOURCE"
   name: "Human Lumber Mill"
-  location:
+  captureLocation:
     x: 0
     y: 0
     z: 0
+  captureRadius: 6
 human_mine:
+  type: "RESOURCE"
   name: "Human Mine"
-  location:
+  captureLocation:
     x: 0
     y: 0
     z: 0
-human_outpost_dwarf:
-  name: "Human Outpost Dwarf"
-  location:
-    x: 0
-    y: 0
-    z: 0
+  captureRadius: 6
+#human_outpost_dwarf:
+#  type: "OUTPOST"
+#  name: "Human Outpost Dwarf"
+#  outerPortal:
+#    entryLocation:
+#      x: 0
+#      y: 0
+#      z: 0
+#    exitLocation:
+#      x: 0
+#      y: 0
+#      z: 0
+#  innerPortal:
+#    entryLocation:
+#      x: 0
+#      y: 0
+#      z: 0
+#    exitLocation:
+#      x: 0
+#      y: 0
+#      z: 0
+#  captureLocation:
+#    x: 0
+#    y: 0
+#    z: 0
+#  captureRadius: 6
 human_outpost_orc:
+  type: "OUTPOST"
   name: "Human Outpost Orc"
-  location:
-    x: -655
+  outerPortal:
+    entryLocation:
+      x: -661
+      y: 31
+      z: -137
+    exitLocation:
+      x: -661
+      y: 31
+      z: -147
+  innerPortal:
+    entryLocation:
+      x: -653
+      y: 31
+      z: -147
+    exitLocation:
+      x: -653
+      y: 31
+      z: -137
+  captureLocation:
+    x: -656
     y: 31
-    z: -152
+    z: -153
+  captureRadius: 6
 
+# Orc objectives
 orc_keep_east:
+  type: "KEEP"
   name: "Orc Fort East"
-  location:
+  outerPortal:
+    entryLocation:
+      x: 0
+      y: 0
+      z: 0
+    exitLocation:
+      x: 0
+      y: 0
+      z: 0
+  innerPortal:
+    entryLocation:
+      x: 0
+      y: 0
+      z: 0
+    exitLocation:
+      x: 0
+      y: 0
+      z: 0
+  captureLocation:
     x: 448
     y: 40
-    z: -310
+    z: -310.5
+  captureRadius: 6
 orc_keep_west:
+  type: "KEEP"
   name: "Orc Fort West"
-  location:
+  outerPortal:
+    entryLocation:
+      x: -288
+      y: 33
+      z: 392
+    exitLocation:
+      x: -299
+      y: 33
+      z: 392
+  innerPortal:
+    entryLocation:
+      x: -299
+      y: 33
+      z: 388
+    exitLocation:
+      x: -288
+      y: 33
+      z: 388
+  captureLocation:
     x: -311
     y: 33
     z: 391
+  captureRadius: 6
 orc_farm:
+  type: "RESOURCE"
   name: "Orc Farm"
-  location:
+  captureLocation:
     x: 0
     y: 0
     z: 0
+  captureRadius: 6
 orc_lumber_mill:
+  type: "RESOURCE"
   name: "Orc Lumber Mill"
-  location:
+  captureLocation:
     x: 0
     y: 0
     z: 0
+  captureRadius: 6
 orc_mine:
+  type: "RESOURCE"
   name: "Orc Mine"
-  location:
+  captureLocation:
     x: 0
     y: 0
     z: 0
+  captureRadius: 6
 orc_outpost_human:
+  type: "OUTPOST"
   name: "Orc Outpost Human"
-  location:
-    x: -407
+  outerPortal:
+    entryLocation:
+      x: -411
+      y: 31
+      z: -123
+    exitLocation:
+      x: -411
+      y: 31
+      z: -129
+  innerPortal:
+    entryLocation:
+      x: -405
+      y: 31
+      z: -129
+    exitLocation:
+      x: -405
+      y: 31
+      z: -123
+  captureLocation:
+    x: -407.5
     y: 31
-    z: -135
-orc_outpost_elf:
-  name: "Orc Outpost Elf"
-  location:
-    x: 0
-    y: 0
-    z: 0
+    z: -135.5
+  captureRadius: 6
+#orc_outpost_elf:
+#  type: "OUTPOST"
+#  name: "Orc Outpost Elf"
+#  outerPortal:
+#    entryLocation:
+#      x: 0
+#      y: 0
+#      z: 0
+#    exitLocation:
+#      x: 0
+#      y: 0
+#      z: 0
+#  innerPortal:
+#    entryLocation:
+#      x: 0
+#      y: 0
+#      z: 0
+#    exitLocation:
+#      x: 0
+#      y: 0
+#      z: 0
+#  captureLocation:
+#    x: 0
+#    y: 0
+#    z: 0
+#  captureRadius: 6
 
-elf_keep_east:
-  name: "Elf Fort East"
-  location:
-    x: 0
-    y: 0
-    z: 0
-elf_keep_west:
-  name: "Elf Fort West"
-  location:
-    x: 0
-    y: 0
-    z: 0
-elf_farm:
-  name: "Elf Farm"
-  location:
-    x: 0
-    y: 0
-    z: 0
-elf_lumber_mill:
-  name: "Elf Lumber Mill"
-  location:
-    x: 0
-    y: 0
-    z: 0
-elf_mine:
-  name: "Elf Mine"
-  location:
-    x: 0
-    y: 0
-    z: 0
-elf_outpost_dwarf:
-  name: "Elf Outpost Dwarf"
-  location:
-    x: 0
-    y: 0
-    z: 0
-elf_outpost_orc:
-  name: "Elf Outpost Orc"
-  location:
-    x: 0
-    y: 0
-    z: 0
-
-dwarf_keep_east:
-  name: "Dwarf Fort East"
-  location:
-    x: 0
-    y: 0
-    z: 0
-dwarf_keep_west:
-  name: "Dwarf Fort West"
-  location:
-    x: 0
-    y: 0
-    z: 0
-dwarf_farm:
-  name: "Dwarf Farm"
-  location:
-    x: 0
-    y: 0
-    z: 0
-dwarf_lumber_mill:
-  name: "Dwarf Lumber Mill"
-  location:
-    x: 0
-    y: 0
-    z: 0
-dwarf_mine:
-  name: "Dwarf Mine"
-  location:
-    x: 0
-    y: 0
-    z: 0
-dwarf_outpost_human:
-  name: "Dwarf Outpost Human"
-  location:
-    x: 0
-    y: 0
-    z: 0
-dwarf_outpost_elf:
-  name: "Dwarf Outpost Elf"
-  location:
-    x: 0
-    y: 0
-    z: 0
+## Elf objectives
+#elf_keep_east:
+#  name: "Elf Fort East"
+#  captureLocation:
+#    x: 0
+#    y: 0
+#    z: 0
+#  captureRadius: 6
+#elf_keep_west:
+#  name: "Elf Fort West"
+#  captureLocation:
+#    x: 0
+#    y: 0
+#    z: 0
+#  captureRadius: 6
+#elf_farm:
+#  name: "Elf Farm"
+#  captureLocation:
+#    x: 0
+#    y: 0
+#    z: 0
+#  captureRadius: 6
+#elf_lumber_mill:
+#  name: "Elf Lumber Mill"
+#  captureLocation:
+#    x: 0
+#    y: 0
+#    z: 0
+#  captureRadius: 6
+#elf_mine:
+#  name: "Elf Mine"
+#  captureLocation:
+#    x: 0
+#    y: 0
+#    z: 0
+#  captureRadius: 6
+#elf_outpost_dwarf:
+#  name: "Elf Outpost Dwarf"
+#  captureLocation:
+#    x: 0
+#    y: 0
+#    z: 0
+#  captureRadius: 6
+#elf_outpost_orc:
+#  name: "Elf Outpost Orc"
+#  captureLocation:
+#    x: 0
+#    y: 0
+#    z: 0
+#  captureRadius: 6
+#
+## Dwarf objectives
+#dwarf_keep_east:
+#  name: "Dwarf Fort East"
+#  captureLocation:
+#    x: 0
+#    y: 0
+#    z: 0
+#  captureRadius: 6
+#dwarf_keep_west:
+#  name: "Dwarf Fort West"
+#  captureLocation:
+#    x: 0
+#    y: 0
+#    z: 0
+#  captureRadius: 6
+#dwarf_farm:
+#  name: "Dwarf Farm"
+#  captureLocation:
+#    x: 0
+#    y: 0
+#    z: 0
+#  captureRadius: 6
+#dwarf_lumber_mill:
+#  name: "Dwarf Lumber Mill"
+#  captureLocation:
+#    x: 0
+#    y: 0
+#    z: 0
+#  captureRadius: 6
+#dwarf_mine:
+#  name: "Dwarf Mine"
+#  captureLocation:
+#    x: 0
+#    y: 0
+#    z: 0
+#  captureRadius: 6
+#dwarf_outpost_human:
+#  name: "Dwarf Outpost Human"
+#  captureLocation:
+#    x: 0
+#    y: 0
+#    z: 0
+#  captureRadius: 6
+#dwarf_outpost_elf:
+#  name: "Dwarf Outpost Elf"
+#  captureLocation:
+#    x: 0
+#    y: 0
+#    z: 0
+#  captureRadius: 6
