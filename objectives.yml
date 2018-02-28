@@ -1,5 +1,6 @@
 # Human objectives
 human_keep_east:
+  id: "HUMAN_KEEP_EAST"
   type: "KEEP"
   name: "Human Fort East"
   outerPortal:
@@ -26,6 +27,7 @@ human_keep_east:
     z: 54.5
   captureRadius: 6
 human_keep_west:
+  id: "HUMAN_KEEP_WEST"
   type: "KEEP"
   name: "Human Fort West"
   outerPortal:
@@ -52,6 +54,7 @@ human_keep_west:
     z: -277
   captureRadius: 6
 human_farm:
+  id: "HUMAN_FARM"
   type: "RESOURCE"
   name: "Human Farm"
   captureLocation:
@@ -60,6 +63,7 @@ human_farm:
     z: 0
   captureRadius: 6
 human_lumber_mill:
+  id: "HUMAN_LUMBER_MILL"
   type: "RESOURCE"
   name: "Human Lumber Mill"
   captureLocation:
@@ -68,6 +72,7 @@ human_lumber_mill:
     z: 0
   captureRadius: 6
 human_mine:
+  id: "HUMAN_MINE"
   type: "RESOURCE"
   name: "Human Mine"
   captureLocation:
@@ -102,6 +107,7 @@ human_mine:
 #    z: 0
 #  captureRadius: 6
 human_outpost_orc:
+  id: "HUMAN_OUTPOST_ORC"
   type: "OUTPOST"
   name: "Human Outpost Orc"
   outerPortal:
@@ -130,6 +136,7 @@ human_outpost_orc:
 
 # Orc objectives
 orc_keep_east:
+  id: "ORC_KEEP_EAST"
   type: "KEEP"
   name: "Orc Fort East"
   outerPortal:
@@ -156,6 +163,7 @@ orc_keep_east:
     z: -310.5
   captureRadius: 6
 orc_keep_west:
+  id: "ORC_KEEP_WEST"
   type: "KEEP"
   name: "Orc Fort West"
   outerPortal:
@@ -182,6 +190,7 @@ orc_keep_west:
     z: 391
   captureRadius: 6
 orc_farm:
+  id: "ORC_FARM"
   type: "RESOURCE"
   name: "Orc Farm"
   captureLocation:
@@ -190,6 +199,7 @@ orc_farm:
     z: 0
   captureRadius: 6
 orc_lumber_mill:
+  id: "ORC_LUMBER_MILL"
   type: "RESOURCE"
   name: "Orc Lumber Mill"
   captureLocation:
@@ -198,6 +208,7 @@ orc_lumber_mill:
     z: 0
   captureRadius: 6
 orc_mine:
+  id: "ORC_MINE"
   type: "RESOURCE"
   name: "Orc Mine"
   captureLocation:
@@ -206,6 +217,7 @@ orc_mine:
     z: 0
   captureRadius: 6
 orc_outpost_human:
+  id: "ORC_OUTPOST_HUMAN"
   type: "OUTPOST"
   name: "Orc Outpost Human"
   outerPortal:
