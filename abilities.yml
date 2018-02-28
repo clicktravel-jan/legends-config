@@ -83,7 +83,7 @@ ranger:
       knockback: 10
       cooldown: 8
     Focus:
-      damage-modifer: 1.25
+      damage-modifier: 1.25
       cooldown: 3
     Sneak:
       speed-level: 2
