@@ -12,11 +12,11 @@ warrior:
     Shatter:
       distance: 15
       launch: 8
-      radius: 4
+      radius: 6
       damage: 5
-      nausea-level: 2
-      nausea-duration: 5
-      cooldown: 20
+      nausea-level: 3
+      nausea-duration: 7
+      cooldown: 15
 
   armsmaster:
     Hamstring:
@@ -27,7 +27,7 @@ warrior:
     Slam:
       damage: 5
       knockback: 10
-      nausea-level: 2
+      nausea-level: 3
       nausea-duration: 7
       cooldown: 10
     StandYourGround:
@@ -166,11 +166,11 @@ mage:
       damage: 6
       cone: 5
       slow-level: 3
-      slow-duration: 5
+      slow-duration: 3
       cooldown: 15
     MoltenStorm:
       spawnRadius: 7.5
-      damage: 3
+      damage: 1
       radius: 5
       burn-level: 1
       burn-duration: 3
