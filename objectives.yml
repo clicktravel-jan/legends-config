@@ -59,7 +59,7 @@ human_farm:
   name: "Human Farm"
   captureLocation:
     x: -1539
-    y: 32
+    y: 33
     z: -23
   captureRadius: 6
 human_lumber_mill:
@@ -68,7 +68,7 @@ human_lumber_mill:
   name: "Human Lumber Mill"
   captureLocation:
     x: -792
-    y: 32
+    y: 33
     z: 411
   captureRadius: 6
 human_mine:
@@ -77,7 +77,7 @@ human_mine:
   name: "Human Mine"
   captureLocation:
     x: -1135
-    y: 29
+    y: 30
     z: 501
   captureRadius: 6
 #human_outpost_dwarf:
@@ -195,7 +195,7 @@ orc_farm:
   name: "Orc Farm"
   captureLocation:
     x: 75
-    y: 42
+    y: 43
     z: 425
   captureRadius: 6
 orc_lumber_mill:
@@ -204,7 +204,7 @@ orc_lumber_mill:
   name: "Orc Lumber Mill"
   captureLocation:
     x: 497
-    y: 32
+    y: 33
     z: 20
   captureRadius: 6
 orc_mine:
@@ -213,7 +213,7 @@ orc_mine:
   name: "Orc Mine"
   captureLocation:
     x: -116
-    y: 34
+    y: 35
     z: 490
   captureRadius: 6
 orc_outpost_human:
