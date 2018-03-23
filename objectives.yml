@@ -58,27 +58,27 @@ human_farm:
   type: "RESOURCE"
   name: "Human Farm"
   captureLocation:
-    x: 0
-    y: 0
-    z: 0
+    x: -1539
+    y: 32
+    z: -23
   captureRadius: 6
 human_lumber_mill:
   id: "HUMAN_LUMBER_MILL"
   type: "RESOURCE"
   name: "Human Lumber Mill"
   captureLocation:
-    x: 0
-    y: 0
-    z: 0
+    x: -792
+    y: 32
+    z: 411
   captureRadius: 6
 human_mine:
   id: "HUMAN_MINE"
   type: "RESOURCE"
   name: "Human Mine"
   captureLocation:
-    x: 0
-    y: 0
-    z: 0
+    x: -1135
+    y: 29
+    z: 501
   captureRadius: 6
 #human_outpost_dwarf:
 #  type: "OUTPOST"
@@ -194,27 +194,27 @@ orc_farm:
   type: "RESOURCE"
   name: "Orc Farm"
   captureLocation:
-    x: 0
-    y: 0
-    z: 0
+    x: 75
+    y: 42
+    z: 425
   captureRadius: 6
 orc_lumber_mill:
   id: "ORC_LUMBER_MILL"
   type: "RESOURCE"
   name: "Orc Lumber Mill"
   captureLocation:
-    x: 0
-    y: 0
-    z: 0
+    x: 497
+    y: 32
+    z: 20
   captureRadius: 6
 orc_mine:
   id: "ORC_MINE"
   type: "RESOURCE"
   name: "Orc Mine"
   captureLocation:
-    x: 0
-    y: 0
-    z: 0
+    x: -116
+    y: 34
+    z: 490
   captureRadius: 6
 orc_outpost_human:
   id: "ORC_OUTPOST_HUMAN"
