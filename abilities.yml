@@ -1,7 +1,7 @@
 warrior:
   berserker:
     Maul:
-      damage: 5
+      damage: 3
       absorption-level: 1
       absorption-duration: 2
       cooldown: 5
@@ -11,21 +11,21 @@ warrior:
       cooldown: 15
     Shatter:
       distance: 15
-      launch: 8
-      radius: 6
-      damage: 5
+      launch: 6
+      radius: 4
+      damage: 3
       nausea-level: 3
       nausea-duration: 7
       cooldown: 15
 
   armsmaster:
     Hamstring:
-      damage: 5
-      slow-level: 2
+      damage: 3
+      slow-level: 3
       slow-duration: 5
       cooldown: 5
     Slam:
-      damage: 5
+      damage: 3
       knockback: 10
       nausea-level: 3
       nausea-duration: 7
@@ -79,9 +79,9 @@ warrior:
 ranger:
   marksman:
     PowerShot:
-      damage: 5
-      knockback: 10
-      cooldown: 8
+      damage: 3
+      knockback: 8
+      cooldown: 9
     Focus:
       damage-modifier: 1.25
       cooldown: 3
@@ -93,20 +93,20 @@ ranger:
 
   hunter:
     ToxicArrow:
-      damage: 5
+      damage: 3
       poison-level: 2
       poison-duration: 3
-      cooldown: 8
+      cooldown: 9
     Trap:
       radius: 1
       poison-level: 1
       poison-duration: 5
       root-duration: 3
-      duration: 10
-      cooldown: 10
+      duration: 15
+      cooldown: 15
     Disengage:
       distance: 10
-      cooldown: 20
+      cooldown: 25
 
   riftstalker:
     NerveShot:
@@ -151,19 +151,19 @@ mage:
     velocity: 0.75
     gravity: 0
     radius: 2
-    damage: 3
+    damage: 2
     burn-duration: 2
     range: 30
-    cooldown: 1.5
+    cooldown: 2
 
   tempest:
     Bolt:
       radius: 2
-      damage: 6
+      damage: 3
       range: 30
       cooldown: 10
     HailBlast:
-      damage: 6
+      damage: 5
       cone: 5
       slow-level: 3
       slow-duration: 3
@@ -176,11 +176,11 @@ mage:
       burn-duration: 3
       duration: 10
       range: 30
-      cooldown: 30
+      cooldown: 35
 
   wizard:
     ArcaneMissile:
-      damage: 7
+      damage: 3
       radius: 2
       range: 30
       cooldown: 6
@@ -190,7 +190,7 @@ mage:
       slow-level: 1
       slow-duration: 1
       range: 15
-      cooldown: 20
+      cooldown: 25
     MassPiggify:
       countdown: 2.0
       radius: 5
@@ -198,7 +198,7 @@ mage:
       nausea-level: 1
       nausea-duration: 8
       range: 30
-      cooldown: 30
+      cooldown: 35
 
   oracle:
     Starsurge:
@@ -258,6 +258,6 @@ mage:
       velocity: 0.75
       gravity: 0
       radius: 1.5
-      damage: 2
+      damage: 1
       burn-duration: 1
       range: 30
