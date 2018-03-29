@@ -143,7 +143,7 @@ orc_keep_east:
     entryLocation:
       x: 387.5
       y: 36
-      z: -293.5
+      z: -292.5
     exitLocation:
       x: 392.5
       y: 38
@@ -152,7 +152,7 @@ orc_keep_east:
     entryLocation:
       x: 400.5
       y: 38
-      z: -290.5
+      z: -289.5
     exitLocation:
       x: 395.5
       y: 38
