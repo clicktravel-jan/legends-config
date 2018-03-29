@@ -141,22 +141,22 @@ orc_keep_east:
   name: "Orc Fort East"
   outerPortal:
     entryLocation:
-      x: 0
-      y: 0
-      z: 0
+      x: 387.5
+      y: 36
+      z: -293.5
     exitLocation:
-      x: 0
-      y: 0
-      z: 0
+      x: 392.5
+      y: 38
+      z: -298.5
   innerPortal:
     entryLocation:
-      x: 0
-      y: 0
-      z: 0
+      x: 400.5
+      y: 38
+      z: -290.5
     exitLocation:
-      x: 0
-      y: 0
-      z: 0
+      x: 395.5
+      y: 38
+      z: -285.5
   captureLocation:
     x: 448
     y: 40
