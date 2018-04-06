@@ -10,7 +10,7 @@ warrior:
       duration: 5
       cooldown: 15
     Shatter:
-      distance: 15
+      distance: 10
       launch: 6
       radius: 4
       damage: 3
@@ -171,7 +171,7 @@ mage:
     MoltenStorm:
       spawnRadius: 7.5
       damage: 1
-      radius: 5
+      radius: 2
       burn-level: 1
       burn-duration: 3
       duration: 10
